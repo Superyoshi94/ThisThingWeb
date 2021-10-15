@@ -1,6 +1,7 @@
 {
      "song" : {
          "player1" : "bf"
+          "player2" : "thing"
         ,"notes" : [
              {
                  "lengthInSteps" : 16
